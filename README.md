@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **kooweajeeI/kooweajeeI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkooweajeeI&count_bg=%231F87ED&title_bg=%23D9E140&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=kooweajeel%20Github!&fontSize=90" />	
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=kooweajeel%20Github!&fontSize=90" /><br>	
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkooweajeeI&count_bg=%231F87ED&title_bg=%23D9E140&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false"/></a></div>
+	
+	
 
 <div align=center>
 	
