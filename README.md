@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png?style=flat&logo=React&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
+	<img src="https://img.shields.io/badge/C#-239120?style=flat&logo=C Sharp&logoColor=white" />
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
