@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,14 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=kooweajeel%20Github!&fontSize=90" /><br>	
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkooweajeeI&count_bg=%231F87ED&title_bg=%23D9E140&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false"/></a></div>
-	
-	
+* * *
+>- 🏫 UC Information Technoloy Software Development major
+>- 👨‍🎓 UOU Information Technology Fusion major
+> - 🌱 PKNU IoT Development Course
+* * *
 
-<div align=center>
-	
-</div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
