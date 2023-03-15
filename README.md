@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * * *
 >- 🏫 UC Information Technoloy Software Development major
 >- 👨‍🎓 UOU Information Technology Fusion major
-> - 🌱 PKNU IoT Development Course
+>- 🌱 PKNU IoT Development Course
 * * *
 
 <div align=center>
