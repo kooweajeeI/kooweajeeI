@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:leejw2873@naver.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white&link=mailto:leejw2873@naver.com"/>
+	</a>	
 	<a href="https://www.notion.so/Smart-Campus-66015669b83f4a07a8bd2af7daea714b">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
