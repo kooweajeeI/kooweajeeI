@@ -76,6 +76,9 @@ Here are some ideas to get you started:
 	<a href="https://www.naver.com">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
+	<a href="https://www.instagram.com/kooweajeel">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+	</a>
 	<br>
 </div>
 <div align=center>
