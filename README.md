@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<p>✨ <b>Platforms & Languages</b> ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p>🛠 <b>Tools</b> 🛠</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>🎨 <b>SNS & Portfolio</b> 🎨</p>
 </div>
 <div align=center>
 	<a href="https://www.youtube.com">
