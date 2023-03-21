@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
+	<h6> Techs that I've used at least once</h6>
+	<br>
 	<p>✨ <b>Platforms & Languages</b> ✨</p>
 </div>
 <div align="center">
