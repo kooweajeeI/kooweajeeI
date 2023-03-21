@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align=center>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LeeJaeWook&fontSize=90" /><br>	
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkooweajeeI&count_bg=%231F87ED&title_bg=%23D9E140&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false"/></a></div>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkooweajeeI&count_bg=%231F87ED&title_bg=%23D9E140&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat-square=false"/></a></div>
 * * *
 >- 🏫 UC Information Technoloy Software Development major
 >- 🎓 UOU Information Technology Fusion major
