@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 	<br>
 	<p>✨ <b>Platforms & Languages</b> ✨</p>
 </div>
+
+<div align=center>
+
+
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
@@ -50,6 +54,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
 </div>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooweajeeI&layout=compact">
 <br>
 <div align=center>
 	<p>🛠 <b>Tools</b> 🛠</p>
@@ -91,18 +97,6 @@ Here are some ideas to get you started:
 	<br>
 </div>
 <hr style="border 10px;">
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooweajeeI&layout=compact">
-  <br>
-<img src="https://github-readme-stats.vercel.app/api?username=kooweajeeI&show_icons=true">
 
- 
-  
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kooweajeeI)
 
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejw2873)](https://solved.ac/kycasdzxc)
 </div>
