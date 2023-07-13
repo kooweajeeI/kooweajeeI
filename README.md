@@ -76,24 +76,29 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align=center>
-	<p>🎨 <b>SNS & Portfolio</b> 🎨</p>
+	<p>🎨 <b>Portfolio & Projects</b> 🎨</p>
 </div>
 <div align=center>
-	<a href="https://www.youtube.com">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat-square&logo=Micro.blog&logoColor=white" />
+
+[WPF]
+	<a href="https://github.com/kooweajeeI/pknu-wpf-2023">
+		C# WPF 프로젝트
 	</a>
-	<a href="https://blog.naver.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat-square&logo=Blogger&logoColor=white" />
+	<br>
+[IoT]
+	<a href="https://github.com/kooweajeeI/Python2023">
+		IoT 프로젝트
 	</a>
-	<a href="mailto:leejw2873@naver.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejw2873@naver.com"/>
+	<br>
+[MINI]	
+	<a href="https://github.com/kooweajeeI/miniprojects">
+		미니 프로젝트
+	</a>
+	<br>
+[UOU]
+	<a href="https://github.com/kooweajeeI/projects_univ">
+		대학 프로젝트
 	</a>	
-	<a href="https://www.notion.so/Smart-Campus-66015669b83f4a07a8bd2af7daea714b">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
-	</a>
-	<a href="https://www.instagram.com/kooweajeel">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
-	</a>
 	<br>
 </div>
 <hr style="border 10px;">
